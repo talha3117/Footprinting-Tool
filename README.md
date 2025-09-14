@@ -57,7 +57,7 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/talha3117/Footprinting-Tool.git
-   cd fmc-footprinting-master
+   cd Footprinting-Tool
    ```
 
 2. **Install Python dependencies**
@@ -323,7 +323,7 @@ We welcome contributions! Please follow these steps:
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/fmc-footprinting-master.git
+git clone https://github.com/talha3117/Footprinting-Tool.git
 
 # Install development dependencies
 pip install -r requirements.txt
