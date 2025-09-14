@@ -56,7 +56,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/fmc-footprinting-master.git
+   git clone https://github.com/talha3117/Footprinting-Tool.git
    cd fmc-footprinting-master
    ```
 
