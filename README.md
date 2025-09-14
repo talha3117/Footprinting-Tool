@@ -348,7 +348,7 @@ The authors are not responsible for any misuse of this tool.
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues]([https://github.com/yourusername/fmc-footprinting-master/issues](https://github.com/talha3117/Footprinting-Tool/issues)
+- **Issues**: https://github.com/talha3117/Footprinting-Tool/issues
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/fmc-footprinting-master/discussions)
 - **Email**: talzzz.mza@gmail.com
 
