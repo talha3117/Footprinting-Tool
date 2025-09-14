@@ -1,0 +1,16 @@
+# FMC (Footprinting Master by CoreBridge) - Python Dependencies
+# Author: TALHA AHMED
+
+# Core dependencies (required)
+requests>=2.25.0
+beautifulsoup4>=4.9.0
+
+# Optional dependencies for enhanced functionality
+playwright>=1.20.0  # For headless browser mirroring fallback
+lxml>=4.6.0         # For faster HTML parsing (optional)
+
+# Development dependencies (optional)
+# pytest>=6.0.0     # For running tests
+# flake8>=3.8.0     # For code linting
+# black>=21.0.0     # For code formatting
+
